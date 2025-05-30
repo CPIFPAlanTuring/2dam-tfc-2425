@@ -74,7 +74,7 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 | 12:05       | 12:15    | Barrios Márquez, Adrián           | Proyecto               |
 | 12:15       | 12:35    | Caro Romero, Iván / de Miguel Díez, Víctor | MySerie    |
 | 12:35       | 12:45    | Giráldez Guerrero, Alejandro      | Proyecto               |
-| 12:45       | 12:55    | Jódar Barbero, Daniel             | Proyecto               |
+| 12:45       | 12:55    | Jódar Barbero, Daniel             | BiblotecaNicolasSalmeron               |
 
 
 
