@@ -64,21 +64,32 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 La fecha y hora de exposición del alumnado se comunicará a través de este canal. La exposición tendrá una duración máxima de 10 minutos, de los cuales, los primeros 5 minutos se dedicarán a la exposición por parte de los alumnos y los 5 restantes para preguntas del profesorado. El alumnado deberá llegar con tiempo suficiente a su presentación. Aquellos alumnos que, durante el período de exposiciones, aún no hayan finalizado su FCT, asistirán al Centro únicamente para exponer su proyecto, debiendo regresar posteriormente a sus prácticas en la empresa.
 
 **2º DAM Mañana**
-#### :calendar: junio 2025 (day tbd)
+#### :calendar: junio 2025 (19 tbd)
 
-| Hora | Alumno(s)                                              |
-|------|--------------------------------------------------------|
-| 00:00 | Alumno 1 <br> Alumno 2   |
-| 00:30 | Alumno 3                       |
+| Hora inicio | Hora fin | Alumno(s)                                | Proyecto               |
+|-------------|----------|------------------------------------------|------------------------|
+| 09:15       | 09:25    | Atencia Barranco, Paula                  | Call of Duty Wiki      |
+| 09:25       | 09:35    | Avella Pérez, Samuel                     | Proyecto               |
+| 09:35       | 09:45    | Barrios Márquez, Adrián                  | Proyecto               |
+| 09:45       | 09:55    | Camino Vázquez, Pablo                    | TrainingRoutine        |
+| 09:55       | 10:05    | Caro Romero, Iván                        | Proyecto               |
+| 10:05       | 10:25    | Corbacho Millán, Rocío / González Pons, Verónica | ReadyToEnjoy   |
+| 10:25       | 10:35    | Falcón Carvajal, Miguel Jesús            | FalconFit              |
+| 10:35       | 10:45    | Gallego Ríos, Boris                      | CryptoWizzard          |
+| 10:45       | 10:55    | Gil Sánchez, Carlos                      | ReceteoQueTeVeo        |
+| 10:55       | 11:05    | Giráldez Guerrero, Alejandro             | Proyecto               |
+| 11:05       | 11:15    | Jódar Barbero, Daniel                    | Proyecto               |
+| 11:15       | 11:45    | Descanso                                 | —                      |
+| 11:45       | 11:55    | Lázaro Zambrano, Ignacio                 | StayOn                 |
+| 11:55       | 12:05    | Leiva López, Eloy                        | CryptoWizzard          |
+| 12:05       | 12:15    | Martín González, Cesar Julio             | PokéBinder TCG         |
+| 12:15       | 12:25    | de Miguel Díez, Víctor                  | Proyecto               |
+| 12:25       | 12:35    | Moncayo Pérez, Rafael                    | UMusic                 |
+| 12:35       | 12:45    | Sánchez Moreno de Vega, Alonso           | FutFan                 |
+| 12:45       | 12:55    | Solera Romero, David                     | Sprout It              |
 
-**2º DAM Tarde**
 
-#### :calendar: junio 2025 (day tbd)
 
-| Hora | Alumno(s)                                              |
-|------|--------------------------------------------------------|
-| 00:00 | Alumno 1 <br> Alumno 2   |
-| 00:30 | Alumno 3                       |
 
 ## :school: Lugar de las exposiciones
 
