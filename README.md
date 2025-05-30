@@ -29,7 +29,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [FalconFit](https://github.com/FalconFit)                                         | Falcón Carvajal, Miguel Jesús |
 | [CryptoWizzard](https://github.com/Boris027/CryptoWizzard-TFG)                         | Gallego Ríos, Boris |
 | [ReceteoQueTeVeo](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo)                | Gil Sánchez, Carlos |
-| [Proyecto]()                                                                      | Giráldez Guerrero, Alejandro |
+| [PartyNow](https://github.com/imal3xg/partynow-tfg)                               | Giráldez Guerrero, Alejandro |
 | [ReadyToEnjoy](https://github.com/Veroonicagp/ReadyToEnjoyy)                                                                      | González Pons, Verónica |
 | [BiblotecaNicolasSalmeron](https://github.com/DanielJoBar/BiblotecaNicolasSalmeron)                                                                      | Jódar Barbero, Daniel |
 | [StayOn](https://github.com/IgnacioLazZam/stayon-tfg.git)                                                                      | Lázaro Zambrano, Ignacio |
@@ -73,7 +73,7 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 | 11:55       | 12:05    | Avella Pérez, Samuel              | Proyecto               |
 | 12:05       | 12:15    | Barrios Márquez, Adrián           | Proyecto               |
 | 12:15       | 12:35    | Caro Romero, Iván / de Miguel Díez, Víctor | MySerie    |
-| 12:35       | 12:45    | Giráldez Guerrero, Alejandro      | Proyecto               |
+| 12:35       | 12:45    | Giráldez Guerrero, Alejandro      | PartyNow               |
 | 12:45       | 12:55    | Jódar Barbero, Daniel             | BiblotecaNicolasSalmeron               |
 
 
