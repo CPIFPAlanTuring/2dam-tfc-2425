@@ -75,7 +75,6 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 | 12:15       | 12:35    | Caro Romero, Iván / de Miguel Díez, Víctor | Proyecto    |
 | 12:35       | 12:45    | Giráldez Guerrero, Alejandro      | Proyecto               |
 | 12:45       | 12:55    | Jódar Barbero, Daniel             | Proyecto               |
-| 12:55       | 13:05    | San Juan Thompson, Joseph Luca    | Proyecto               |
 
 
 
