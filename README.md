@@ -13,11 +13,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 * [Miguel Ángel Ronda](https://github.com/profemronda)
 * [Juan Antonio Garcia](https://github.com/juanarrow)
 * [Carmen Campos]()
-### Turno de Tarde
-* [José Santos]()
-* [Javier Úbeda]()
-* [Juan Manuel López García]()
-* [] ()
+
 ## Índice a los proyectos de cada alumno
 
 ### 2º DAM Mañana
