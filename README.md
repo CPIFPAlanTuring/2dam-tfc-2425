@@ -24,7 +24,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      | Avella Pérez, Samuel |
 | [Proyecto]()                                                                      | Barrios Márquez, Adrián |
 | [TrainingRoutine](https://github.com/pablitocavaz04/TrainingRoutine-TFG)                                                                      | Camino Vázquez, Pablo |
-| [Proyecto]()                                                                      | Caro Romero, Iván |
+| [MySerie](https://github.com/vdemi12/TFG-MySerie)                                                                      | Caro Romero, Iván |
 | [ReadyToEnjoy](https://github.com/Veroonicagp/ReadyToEnjoyy)                                                                      | Corbacho Millán, Rocío |
 | [FalconFit](https://github.com/FalconFit)                                         | Falcón Carvajal, Miguel Jesús |
 | [CryptoWizzard](https://github.com/Boris027/CryptoWizzard-TFG)                         | Gallego Ríos, Boris |
@@ -35,7 +35,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [StayOn](https://github.com/IgnacioLazZam/stayon-tfg.git)                                                                      | Lázaro Zambrano, Ignacio |
 | [CryptoWizzard](https://github.com/Boris027/CryptoWizzard-TFG)                         | Leiva López, Eloy |
 | [PokéBinder TCG](https://github.com/cesarjulio19/pokebindertcg-tfg)                                                                      | Martín González, Cesar Julio |
-| [Proyecto]()                                                                      | de Miguel Díez, Víctor |
+| [MySerie](https://github.com/vdemi12/TFG-MySerie)                                                                      | de Miguel Díez, Víctor |
 | [UMusic](https://github.com/Rafamp34/UMusic_TFG)                                                                      | Moncayo Pérez, Rafael |
 | [Proyecto]()                                                                      | San Juan Thompson, Joseph Luca |
 | [FutFan](https://github.com/AlonsoSMdV/FutFan_tfg)                                                                      | Sánchez Moreno de Vega, Alonso |
@@ -72,7 +72,7 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 | 11:45       | 11:55    | Solera Romero, David              | Sprout It              |
 | 11:55       | 12:05    | Avella Pérez, Samuel              | Proyecto               |
 | 12:05       | 12:15    | Barrios Márquez, Adrián           | Proyecto               |
-| 12:15       | 12:35    | Caro Romero, Iván / de Miguel Díez, Víctor | Proyecto    |
+| 12:15       | 12:35    | Caro Romero, Iván / de Miguel Díez, Víctor | MySerie    |
 | 12:35       | 12:45    | Giráldez Guerrero, Alejandro      | Proyecto               |
 | 12:45       | 12:55    | Jódar Barbero, Daniel             | Proyecto               |
 
