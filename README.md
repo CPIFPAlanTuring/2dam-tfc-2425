@@ -43,12 +43,6 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 
 
-### 2º DAM Tarde
-|Proyecto | Alumno(s)|
-|-----------------------------------------------------------------------------------| ------------------------------|
-| [Proyecto]()                                                                      |Alumnos |
-
-
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: **31 de marzo**
 * Checkpoint:  **30 de abril**
