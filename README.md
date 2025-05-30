@@ -56,27 +56,27 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 **2º DAM Mañana**
 #### :calendar: 19 de junio de 2025
 
-| Hora inicio | Hora fin | Alumno(s)                                | Proyecto               |
-|-------------|----------|------------------------------------------|------------------------|
-| 09:15       | 09:25    | Atencia Barranco, Paula                  | Call of Duty Wiki      |
-| 09:25       | 09:35    | Avella Pérez, Samuel                     | Proyecto               |
-| 09:35       | 09:45    | Barrios Márquez, Adrián                  | Proyecto               |
-| 09:45       | 09:55    | Camino Vázquez, Pablo                    | TrainingRoutine        |
-| 09:55       | 10:05    | Caro Romero, Iván                        | Proyecto               |
-| 10:05       | 10:25    | Corbacho Millán, Rocío / González Pons, Verónica | ReadyToEnjoy   |
-| 10:25       | 10:35    | Falcón Carvajal, Miguel Jesús            | FalconFit              |
-| 10:35       | 10:45    | Gallego Ríos, Boris                      | CryptoWizzard          |
-| 10:45       | 10:55    | Gil Sánchez, Carlos                      | ReceteoQueTeVeo        |
-| 10:55       | 11:05    | Giráldez Guerrero, Alejandro             | Proyecto               |
-| 11:05       | 11:15    | Jódar Barbero, Daniel                    | Proyecto               |
-| 11:15       | 11:45    | Descanso                                 | —                      |
-| 11:45       | 11:55    | Lázaro Zambrano, Ignacio                 | StayOn                 |
-| 11:55       | 12:05    | Leiva López, Eloy                        | CryptoWizzard          |
-| 12:05       | 12:15    | Martín González, Cesar Julio             | PokéBinder TCG         |
-| 12:15       | 12:25    | de Miguel Díez, Víctor                  | Proyecto               |
-| 12:25       | 12:35    | Moncayo Pérez, Rafael                    | UMusic                 |
-| 12:35       | 12:45    | Sánchez Moreno de Vega, Alonso           | FutFan                 |
-| 12:45       | 12:55    | Solera Romero, David                     | Sprout It              |
+| Hora inicio | Hora fin | Alumno(s)                         | Proyecto               |
+|-------------|----------|-----------------------------------|------------------------|
+| 09:15       | 09:25    | Atencia Barranco, Paula           | Call of Duty Wiki      |
+| 09:25       | 09:35    | Camino Vázquez, Pablo             | TrainingRoutine        |
+| 09:35       | 09:55    | Corbacho Millán, Rocío / González Pons, Verónica | ReadyToEnjoy |
+| 09:55       | 10:05    | Falcón Carvajal, Miguel Jesús     | FalconFit              |
+| 10:05       | 10:25    | Gallego Ríos, Boris / Leiva López, Eloy | CryptoWizzard   |
+| 10:25       | 10:35    | Gil Sánchez, Carlos               | ReceteoQueTeVeo        |
+| 10:35       | 10:45    | Lázaro Zambrano, Ignacio          | StayOn                 |
+| 10:45       | 10:55    | Martín González, Cesar Julio      | PokéBinder TCG         |
+| 10:55       | 11:05    | Moncayo Pérez, Rafael             | UMusic                 |
+| 11:05       | 11:15    | Sánchez Moreno de Vega, Alonso    | FutFan                 |
+| 11:15       | 11:45    | Descanso                          | —                      |
+| 11:45       | 11:55    | Solera Romero, David              | Sprout It              |
+| 11:55       | 12:05    | Avella Pérez, Samuel              | Proyecto               |
+| 12:05       | 12:15    | Barrios Márquez, Adrián           | Proyecto               |
+| 12:15       | 12:35    | Caro Romero, Iván / de Miguel Díez, Víctor | Proyecto    |
+| 12:35       | 12:45    | Giráldez Guerrero, Alejandro      | Proyecto               |
+| 12:45       | 12:55    | Jódar Barbero, Daniel             | Proyecto               |
+| 12:55       | 13:05    | San Juan Thompson, Joseph Luca    | Proyecto               |
+
 
 
 
