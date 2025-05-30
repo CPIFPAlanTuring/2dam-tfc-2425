@@ -31,7 +31,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [ReceteoQueTeVeo](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo)                | Gil Sánchez, Carlos |
 | [Proyecto]()                                                                      | Giráldez Guerrero, Alejandro |
 | [ReadyToEnjoy](https://github.com/Veroonicagp/ReadyToEnjoyy)                                                                      | González Pons, Verónica |
-| [Proyecto]()                                                                      | Jódar Barbero, Daniel |
+| [BiblotecaNicolasSalmeron](https://github.com/DanielJoBar/BiblotecaNicolasSalmeron)                                                                      | Jódar Barbero, Daniel |
 | [StayOn](https://github.com/IgnacioLazZam/stayon-tfg.git)                                                                      | Lázaro Zambrano, Ignacio |
 | [CryptoWizzard](https://github.com/Boris027/CryptoWizzard-TFG)                         | Leiva López, Eloy |
 | [PokéBinder TCG](https://github.com/cesarjulio19/pokebindertcg-tfg)                                                                      | Martín González, Cesar Julio |
